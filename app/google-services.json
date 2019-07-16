@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "839744275496",
+    "firebase_url": "https://flame-ff3f0.firebaseio.com",
+    "project_id": "flame-ff3f0",
+    "storage_bucket": "flame-ff3f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839744275496:android:158b333bcd08f3f6",
+        "android_client_info": {
+          "package_name": "com.adeel.flame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839744275496-o9g3ao0vqaq09v1q3elq8dpoqc8jpkvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf9iCdJJFzzfKdPWoUL26DKOWIVEq8eKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839744275496-o9g3ao0vqaq09v1q3elq8dpoqc8jpkvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
